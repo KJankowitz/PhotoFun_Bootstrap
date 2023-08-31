@@ -1,7 +1,6 @@
-/* .carousel-inner > .carousel-item > img { */
-    /* max-width: 70%; 
-} */
-
+body {
+    background-color: lightgray;
+}
 .card-cover {
     background-repeat: no-repeat;
     background-position: center center;
