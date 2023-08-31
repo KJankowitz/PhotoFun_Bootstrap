@@ -1,5 +1,10 @@
+
 body {
     background-color: lightgray;
+}
+
+.header {
+    background-color: beige;
 }
 .card-cover {
     background-repeat: no-repeat;
@@ -9,4 +14,8 @@ body {
 
 .container > .row > .col > img {
     margin: 10px 20px; 
+}
+
+.navbar > .nav .active {
+    background-color: rgba(241, 207, 51, 0.945);
 }
