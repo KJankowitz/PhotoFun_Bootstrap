@@ -16,5 +16,5 @@ body {
 }
 
 .navbar > .nav .active {
-    background-color: rgba(241, 207, 51, 0.945);
+    background-color: #ffc107;
 }
